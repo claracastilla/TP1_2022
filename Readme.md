@@ -25,6 +25,9 @@ CV Módulo 2:
 
 2-Oliverio Gabrielli [CV Látex Oliverio.pdf](https://github.com/claracastilla/TP1_2022/files/8517947/CV.Latex.Oliverio.pdf)
 
+3-Nicolas Delugan [Curriculum Vitae Template - Nicolás Delugan.pdf](https://github.com/claracastilla/TP1_2022/files/8556827/Curriculum.Vitae.Template.-.Nicolas.Delugan.pdf)
+
+
 
 
 .
