@@ -27,6 +27,11 @@ CV Módulo 2:
 
 3-Nicolas Delugan [Curriculum Vitae Template - Nicolás Delugan.pdf](https://github.com/claracastilla/TP1_2022/files/8556827/Curriculum.Vitae.Template.-.Nicolas.Delugan.pdf)
 
+4-Clara Castilla [CV CLARA CASTILLA.pdf](https://github.com/claracastilla/TP1_2022/files/8637087/CV.CLARA.CASTILLA.pdf)
+
+5-Genaro Galera [CV final Genaro Galera.pdf](https://github.com/claracastilla/TP1_2022/files/8637090/CV.final.Genaro.Galera.pdf)
+
+
 
 
 
